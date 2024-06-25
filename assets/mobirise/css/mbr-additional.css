@@ -1419,6 +1419,12 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
+  .cid-ubGKCIo3Nc {
+    padding-bottom: 2rem;
+  }
+  .cid-ubGIzqdsHP {
+    padding-top: 1rem  !important;
+  }
   .cid-ubGKCIo3Nc .image-wrapper {
     margin-bottom: 1rem;
   }
